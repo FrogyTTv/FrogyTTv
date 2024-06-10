@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrogyTTv
 - 👀 I’m interested in becoming a fullstack programmer.
-- 🌱 I’m currently learning html
-- 💞️ I’m not currently looking to do a colaberation, but i am probably going to in the future.
+- 🌱 I’m currently learning Html, CSS, Javascript and Svelt
 
 <!---
 FrogyTTv/FrogyTTv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
