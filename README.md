@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrogyTTv
-- 👀 I’m interested in becoming a fullstack programmer.
+- 👀 I’m interested in learning diffrent languages while creating fun projects
 - 🌱 I’m currently learning Html, CSS, Javascript and Svelt
 
 <!---
