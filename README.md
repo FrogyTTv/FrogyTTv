@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EliasSorby?tab=followers"><img src="https://img.shields.io/github/followers/EliasSorby?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EliasSorby.EliasSorby" alt="Visitors">
+  <a href="https://github.com/FrogyTvv?tab=followers"><img src="https://img.shields.io/github/followers/FrogyTvv?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrogyTvv.FrogyTvv" alt="Visitors">
 </p>
 
 ---
