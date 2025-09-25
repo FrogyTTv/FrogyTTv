@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @FrogyTTv
-- 👀 I’m interested in learning diffrent languages while creating fun projects
-- 🌱 I’m currently learning Html, CSS, Javascript and Svelt
+# 👋 Hi there — I'm Elias Sørby
 
-<!---
-FrogyTTv/FrogyTTv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Website Developer & Designer | Based in Oslo
+
+I'm a passionate front-end developer and creative designer who blends code and design to craft beautiful, user-friendly web experiences. Whether it's HTML, CSS animations, or writing clean JavaScript, I enjoy building things that live on the internet.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- 🌐 Languages: `HTML`, `CSS`, `JavaScript`, `Python`, and a bit of `C#`
+- 🧰 Tools I love: `VS Code`, Chrome DevTools, Figma
+- 🎨 Design + Code = ❤️
+
+---
+
+### 📌 Portfolio & Links
+
+- 🖥️ [My Portfolio Website](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📬 Email: elias.dev@example.com
+
+---
+
+### 🌟 A Little About Me
+
+- 🎧 Music keeps me in the zone
+- 👨‍💻 Always learning something new in code
+- 🤝 Open to collaboration on creative projects
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
+---
