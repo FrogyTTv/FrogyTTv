@@ -16,8 +16,8 @@ I'm a passionate front-end developer and creative designer who blends code and d
 
 ### 📌 Portfolio & Links
 
-- 🖥️ [My Portfolio Website](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🖥️ [My Portfolio Website](https://sørby.net)  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/elias-workneh-sørby-1b29b9386/))  
 - 📬 Email: elias.dev@example.com
 
 ---
