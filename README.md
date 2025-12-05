@@ -40,7 +40,7 @@
 
 A fully developed animation project exploring **movement and interaction**, built using your own design and frontend code.
 
-🔗 Check it out at [sørby.net/animasjon](https://sørby.net/animasjon)
+🔗 Check it out at [sørby.net/animasjon](https://sørby.com/animasjon)
 
 ---
 
@@ -58,7 +58,7 @@ A fully developed animation project exploring **movement and interaction**, buil
 ## 📫 Contact Me
 
 - 📧 Email: [dummymail@test.com]
-- 🌐 Portfolio: [sørby.net](https://sørby.net)
+- 🌐 Portfolio: [sørby.com](https://sørby.com)
 
 ---
 
