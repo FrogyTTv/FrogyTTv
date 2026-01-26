@@ -58,7 +58,7 @@ A fully developed animation project exploring **movement and interaction**, buil
 ## 📫 Contact Me
 
 - 📧 Email: [dummymail@test.com]
-- 🌐 Portfolio: [sørby.com](https://sørby.com)
+- 🌐 Portfolio: [eliassorby.no](https://eliassorby.no)
 
 ---
 
