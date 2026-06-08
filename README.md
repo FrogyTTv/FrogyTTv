@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Elias 👋</h1>
 
 <p align="center">
-  🌈 Frontend learner • 🎹 Music creator • 🎨 Passionate about creativity & code
+  Frontend developer • 🎹 Music creator • Passionate about intuitive UI/UX design
 </p>
 
 <p align="center">
@@ -15,32 +15,72 @@
 
 ## 👨‍🎓 About Me
 
-- 🎒 I'm **Elias Workneh Sorby**, a student at **Elvebakken VGS** in **Oslo, Norway** 🇳🇴  
-- 🌱 Currently learning to build modern, responsive **web frontends**  
+- I'm **Elias Workneh Sorby**, a student at **Elvebakken VGS** in **Oslo, Norway** 🇳🇴  
+- Currently learning to build modern, responsive **websites & phone apps**  
 - 🚀 I’m open to **collaboration, freelance**, or any creative coding opportunities  
-- 🎯 Dreaming of making a living through **websites** or **useful apps** that matter
 
 ---
 
 ## 💻 Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🖼️ Featured Project
+## Projects
 
-### 🎬 [Animasjon i bevegelse](https://sørby.net/animasjon)
+### Cleather *(Under Development)*
 
-A fully developed animation project exploring **movement and interaction**, built using your own design and frontend code.
+A mobile app that suggests outfits based on the weather where you are.
 
-🔗 Check it out at [sørby.net/animasjon](https://sørby.com/animasjon)
+Still in development, but the idea is to make it easier to decide what to wear based on real-time weather.
+
+**Stack:** React Native, Supabase, weather APIs
+
+---
+
+### Daily Word
+
+A desktop app made with Electron.
+
+It helps you track Bible reading and also shows a daily verse. Simple idea, but focused on consistency and clean UI.
+
+---
+
+### Solar System Website
+
+An interactive website built with React and GSAP.
+
+Scroll through the solar system with animations and transitions.
+
+[View Live Demo](https://solarsystem.eliassorby.no)
+
+---
+
+### Sunglasses E-commerce Demo
+
+A school project — a simple but clean online store concept.
+
+[View Live Demo](https://sundrift.eliassorby.no)
+
+---
+
+### Motion / Animation Website (10th grade)
+
+One of my earlier projects where I played around with animations, After Effects, and interactive web design.
 
 ---
 
@@ -55,9 +95,9 @@ A fully developed animation project exploring **movement and interaction**, buil
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: [dummymail@test.com]
+- 📧 Email: [hello@eliassorby.no](mailto:hello@eliassorby.no)
 - 🌐 Portfolio: [eliassorby.no](https://eliassorby.no)
 
 ---
